@@ -29,6 +29,7 @@ Stem mastering is the best option to perfect your mix, because it is a mastering
 The mastering is then optimized for streaming, CD, download stores and club sound. Order your Stem Mastering service now if you want a perfect mastering for your music. 
  
 Are you more interested in mastering? Then check out my blog
+Also a few [examples](https://soundcloud.com/qi-studio/master) 🎫
 
 
 ![Session](/src/assets/img/darkStudio.jpg "Session")

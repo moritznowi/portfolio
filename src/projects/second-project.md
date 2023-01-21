@@ -1,18 +1,20 @@
 ---
-title: Another NPM Package
-emoji: 💾
+title: Production
+emoji: 👨🏼‍🎨
 metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
 date: 2019-01-01T00:00:00.000Z
-summary: This is an NPM package I made
+summary: All Custom starting at 30€
 tags:
-  - javascript
-  - node
+  - Standard Lease
+  - Exclusive Lease
 ---
 
-### Task
+### Standard Lease
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Leasing beats remain permanently available. Any number of artists can purchase a leasing license and use the beat commercially. Here it is already clear that you give up a large part of the control over your song. 
 
-### Solution
+### Exclusiv Lease
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+With the exclusive right of use (i.e. the "Exclusive"), you alone receive the right to use the beat. If necessary, an additional use by the author (producer) can be regulated contractually. However, other artists / companies cannot acquire any rights to the beat and cannot use it. 
+
+###Contact me concerning the prices

@@ -22,7 +22,7 @@ With the exclusive right of use (i.e. the "Exclusive"), you alone receive the ri
 I compose a complete pop, EDM, hip hop, etc. Song for you
 [Here](https://soundcloud.com/qi-studio) are a few sound examples
 
-### Contact me concerning the prices
+###### Contact me concerning the prices
 
 
 ![Session](/src/assets/img/a.jpg "Ableton")

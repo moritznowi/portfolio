@@ -1,8 +1,8 @@
 ---
 title: Beat Genres
-  others
+  
 date: 2020-01-01T08:00:00.000Z
-summary: Fav Beats
+summary: a few impressions
 tags:
   - House
   - Trap

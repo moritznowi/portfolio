@@ -1,14 +1,19 @@
 ---
-title: This is the second example post
+title: Plugins
 date: 2020-01-01T08:00:00.000Z
-summary: Bring to the table win-win survival strategies to ensure proactive domination.
+summary: Must have Plugins!
 tags:
-  - sport
+  - UAD
+  - Wave
+  - Plugin Alliance
+  - Fabfilter
+  - Soundtoys
+  - Slate
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-## Section Header
+### Univeral Audio Plugins
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+The [UAD](https://www.uaudio.de/uad-plugins.html) Powered Plug-ins
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+This culminated some time later in the first UAD Powered Plug-ins, a DSP-based platform that has led to the most authentic recreations of analog recording classics and is now used in many leading recording studios. In addition to continuing to develop and manufacture high-quality outboard equipment, Universal Audio's product catalog has also included audio interfaces since 2012, most notably the Apollo interfaces, which are available in a wide variety of sizes and connection types and are used by the world's most renowned producers and artists.
+![uad](src/assets/img/uad.jpg)

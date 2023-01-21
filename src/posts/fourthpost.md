@@ -11,8 +11,8 @@ tags:
 ![Studio](/src/assets/img/studio.jpg "studio")
 
 
-![Studio](/src/assets/img/studio.jpg "darkStudio")
+![Studio](/src/assets/img/darkStudio.jpg "darkStudio")
 
 
-![Studio](/src/assets/img/studio.jpg "session")
+![Studio](/src/assets/img/session.jpg "session")
 

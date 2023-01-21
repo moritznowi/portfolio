@@ -1,13 +1,18 @@
 ---
-title: Images can be added to posts
+title: Images
 date: 2020-02-03T08:00:00.000Z
-summary: Add an image to your post
+summary: Studio Images
 tags:
-  - environment
-  - politics
+  - Mic
+  - Monitors
+  - Room
 ---
-The below image was added using Netlify CMS and is stored in your git repo.
 
-![Fern](/src/assets/img/fern-in-hand.jpeg "Fern")
+![Studio](/src/assets/img/studio.jpeg "studio")
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+
+![Studio](/src/assets/img/studio.jpeg "darkStudio")
+
+
+![Studio](/src/assets/img/studio.jpeg "session")
+

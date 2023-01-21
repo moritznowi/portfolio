@@ -18,3 +18,6 @@ Leasing beats remain permanently available. Any number of artists can purchase a
 With the exclusive right of use (i.e. the "Exclusive"), you alone receive the right to use the beat. If necessary, an additional use by the author (producer) can be regulated contractually. However, other artists / companies cannot acquire any rights to the beat and cannot use it. 
 
 ### Contact me concerning the prices
+
+
+![Session](/src/assets/img/kassette.jpg "Session")

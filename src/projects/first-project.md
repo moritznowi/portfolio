@@ -31,7 +31,7 @@ The mastering is then optimized for streaming, CD, download stores and club soun
 Are you more interested in mastering? Then check out my blog
 
 
-
+![Session](/src/assets/img/darkStudio.jpg "Session")
 
 
 

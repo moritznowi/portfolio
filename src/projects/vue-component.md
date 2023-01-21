@@ -29,4 +29,4 @@ Recording rates: 60€/h (first session mixing and tuning included, and the firs
 Prices for tuning: 20€ per song
 
 
-![Session](/src/assets/img/session.jpg "Session")
+![Session](/src/assets/img/p.jpg "recording")

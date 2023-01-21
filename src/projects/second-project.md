@@ -7,6 +7,7 @@ summary: All Custom's starting at 30€
 tags:
   - Standard Lease
   - Exclusive Lease
+  - Songwriting
 ---
 
 ### Standard Lease
@@ -16,6 +17,10 @@ Leasing beats remain permanently available. Any number of artists can purchase a
 ### Exclusiv Lease
 
 With the exclusive right of use (i.e. the "Exclusive"), you alone receive the right to use the beat. If necessary, an additional use by the author (producer) can be regulated contractually. However, other artists / companies cannot acquire any rights to the beat and cannot use it. 
+
+### Songwriting
+I compose a complete pop, EDM, hip hop, etc. Song for you
+[Here](https://soundcloud.com/qi-studio) are a few sound examples
 
 ### Contact me concerning the prices
 

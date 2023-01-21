@@ -20,7 +20,7 @@ You will also be in a perfectly linear recording studio with a versatile enginee
 Through various audio plugins your sounds will always be on the perfect pitch. 
 Antares Autotune is very popular for automatic tuning.
 But I also use Melodyne and RX7, as well as other UAD plugins.
-[Here](https://soundcloud.com/qi-studio/vocal-tuning)is an example 🎤
+[Here](https://soundcloud.com/qi-studio/vocal-tuning) is an example 🎤
 
 ### Prices
 

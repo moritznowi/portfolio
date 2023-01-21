@@ -25,3 +25,14 @@ Anyone who deals with the topic of audio production or audio processing will har
 In many cases, legendary analog hardware serves as a model. Waves has the claim to surpass classic effects units, mixers or tape recorders in terms of sound. Of course, this is also marketing slang. But one must admit: The digital version often comes eerily close to the original. 
 
 ![waves](/src/assets/img/waves.jpg "waves")
+
+### Fabfilter Plugins
+
+The Dutch company [Fabfilter Software Instruments](https://www.fabfilter.com/products) was founded in 2002 by Frederik Slijkerman and Floris Klinkert in Amsterdam. Their affinity for analog audio technology brings the two to the development of professional software plug-ins, which should not show off by graphic analogy to old and well-known devices, but should shine with high-quality sound and modern techniques. 
+Thought, done, they sat down together and create effects until today, which convince many users worldwide by their graphics, but especially by their results in the application. 
+
+![fab](/src/assets/img/fab.jpg "fab")
+
+
+
+To be continued...

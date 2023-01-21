@@ -13,4 +13,4 @@ eleventyNavigation:
   order: 4
 ---
 
-##Please [contact] me for further questions regarding my services. I am always available for a good conversation.
+Please contact me for further questions regarding my services. I am always available for a good conversation.

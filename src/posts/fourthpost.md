@@ -14,5 +14,5 @@ tags:
 ![Studio](/src/assets/img/darkStudio.jpg "darkStudio")
 
 
-![Studio](/src/assets/img/session.jpg "session")
+![Studio](/src/assets/img/rapper.jpg "session")
 

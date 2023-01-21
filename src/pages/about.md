@@ -16,4 +16,4 @@ I studied Audio Engineering in Munich and since then I produced several singles 
 
 
 
-![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand")
+![Session](/src/assets/img/session.jpeg "Session")

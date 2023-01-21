@@ -8,11 +8,11 @@ tags:
   - Room
 ---
 
-![Studio](/src/assets/img/studio.jpeg "studio")
+![Studio](/src/assets/img/studio.jpg "studio")
 
 
-![Studio](/src/assets/img/studio.jpeg "darkStudio")
+![Studio](/src/assets/img/studio.jpg "darkStudio")
 
 
-![Studio](/src/assets/img/studio.jpeg "session")
+![Studio](/src/assets/img/studio.jpg "session")
 

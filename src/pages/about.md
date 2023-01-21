@@ -16,4 +16,4 @@ I studied Audio Engineering in Munich and since then I produced several singles 
 
 
 
-![Session](/src/assets/img/session.jpeg "Session")
+![Session](/src/assets/img/moStudio.jpg "Session")
